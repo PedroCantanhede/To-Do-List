@@ -18,6 +18,8 @@
 
 Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar uma simples Lista de Tarefas utilizando Arrays e JSON.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c0365d1-24ec-4a7c-bb2a-b1323c44cda0/deploy-status)](https://app.netlify.com/sites/lista-de-tarefa/deploys)
+
 <div align="center" >
   <img src="./github/note.png" alt="demo-web" height="500">
 </div>
