@@ -26,7 +26,7 @@ Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar uma
   <img src="./github/mobile.png" alt="demo-web" height="500">
 </div>
 
-# :tools: Tecnologias
+# 🛠️ Tecnologias
 
 💻 HTML
 
@@ -36,24 +36,24 @@ Desafio proposto pelo Igor do curso Programador BR com o intuito de elaborar uma
 
 ## :camera: Veja:
 
-### Desktop
+### 🖥️ Desktop
 
 ![GIF](github/desktop.gif)
 ![GIF](github/desktop2.gif)
 ![GIF](github/desktop3.gif)
 ![GIF](github/desktop4.gif)
 
-### Mobile
+### 📱 Mobile
 
 ![GIF](github/mobile.gif)
 ![GIF](github/mobile2.gif)
 ![GIF](github/mobile3.gif)
 
-### Código:
+### ☑️ Código:
 
 ![image](github/codigo.JPG)
 
-## 🌟 CURSO DESENVOLVIMENTO WEB FULL STACK
+## 🌟 Curso Desenvolvimento Web Full Stack
 
 Deixo minha recomendação ao curso do **IGOR OLIVEIRA**. Tenho aprendido muito nessas últimas semanas e o curso tem sido fundamental para o meu aprendizado.
 
